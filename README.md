@@ -2,7 +2,7 @@
 
 Here’s the reCAPTCHA v3 Enterprise Token Automation Tool in action:
 
-!https://github.com/user-attachments/assets/4fbd1c99-72e6-4399-bb8a-852aa7f29c5
+https://github.com/user-attachments/assets/4fbd1c99-72e6-4399-bb8a-852aa7f29c5
 
 🎥 [Watch the Full Demo on YouTube](https://youtu.be/your-demo-video-id)
 <img width="1920" height="1039" alt="Image" src="https://github.com/user-attachments/assets/644729c2-2a93-46f4-8fd2-acdcd41b7850" />
